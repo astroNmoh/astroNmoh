@@ -7,7 +7,7 @@ I enjoy solving problems, learning new technologies, and collaborating with othe
 ## 🔧 Skills & Tech Stack
 - **Languages:** C#, HLSL, ShaderLab, CG, C++, JS, Three.Js, Typescript
 - **Frameworks:** .NET, Unity, Unreal, DirectX, 8thwall
-- **Skills&Techs:** Lightning, Physics, Shaders, UX, Vector Math, 3D, VR
+- **Skills&Techs:** Lightning, Physics, Shaders, UX, Vector Math, 3D, VR, Game Design, UX
 
 ## 🌱 Learning & Growth
 Currently diving deeper into graphics programming.
