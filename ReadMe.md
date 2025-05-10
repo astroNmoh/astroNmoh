@@ -1,8 +1,8 @@
-# Hi Coders! 👋
+# Hi Fellow! 👋
 
 ## About Me
-I'm a passionate developer who loves working on games, but also do tools, design levels, narrative, an all rounded!  
-I enjoy solving problems, learning new technologies, and collaborating with others.
+A passionate developer who loves working on games, but also does tools, designs levels, narrative... an all rounded!  
+I enjoy challenging myself while learning new technologies. Collaborating with others, always.
 
 ## 🔧 Skills & Tech Stack
 - **Languages:** C#, HLSL, ShaderLab, CG, C++, JS, Three.Js, Typescript
@@ -14,6 +14,7 @@ Currently diving deeper into graphics programming.
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gabrielcubas/)
+- [Youtube]
 
 ## ⚡ Fun Fact
 C# was invented as Microsoft's response to Java...
