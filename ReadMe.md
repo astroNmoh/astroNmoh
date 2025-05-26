@@ -14,7 +14,10 @@ Currently diving deeper into graphics programming.
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gabrielcubas/)
-- [Youtube]
+- [Mail](moh_la_cs@hotmail.com)
+
+## 📫 Want some visual samples?
+- [Youtube](https://www.youtube.com/playlist?list=PLv1sodoWUtsG1tSQKzBqG-DEHF_Iszi_B)
 
 ## ⚡ Fun Fact
 C# was invented as Microsoft's response to Java...
